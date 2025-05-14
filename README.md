@@ -31,7 +31,8 @@
 
 
 **Maintained by:** 
-Zain Ul Abidden
-Amna Noor
+Zain Ul Abidden,
+Amna Noor,
+Daima Iftikhar,
 Muhammad Yahya khalid 
-Daima Iftikhar
+
