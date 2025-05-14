@@ -22,7 +22,7 @@
 ##  How to Use
 
 1. Clone or download this repository.
-2. Open `ZakatWise.owl` using [Protégé](https://protege.stanford.edu/).
+2. Open `Agriculture Taxation Ontology.owl` using [Protégé](https://protege.stanford.edu/).
 3. Explore classes, properties, and individuals.
 4. Use DL Query or SPARQL tab for intelligent queries and reasoning.
 
